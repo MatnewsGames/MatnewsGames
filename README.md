@@ -23,14 +23,11 @@
 
 ---
 
-### 📌 Projetos em Destaque
-
-* 📲 **[Ponte NFC Skylanders](https://github.com/MatnewsGames/Ponte_NFC_Skylanders):** Ecossistema integrado com app Android (Kotlin) para leitura/emulação de tags NFC e servidor Desktop (C#) via Wi-Fi.
 * 🩸 **Plataforma Web - Gestão de Doação de Sangue:** Sistema Full-Stack em PHP, JavaScript e MySQL com foco em sanitização de dados e segurança.
 
 ---
 
-### 📫 Conecte-se comigo
+### 📫 Minhas redes:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matheus-ot%C3%A1vio-gon%C3%A7alves-1683b940a/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:matheusotavioestudos@gmail.com)
