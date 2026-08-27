@@ -23,10 +23,6 @@
 
 ---
 
-* 🩸 **Plataforma Web - Gestão de Doação de Sangue:** Sistema Full-Stack em PHP, JavaScript e MySQL com foco em sanitização de dados e segurança.
-
----
-
 ### 📫 Minhas redes:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matheus-ot%C3%A1vio-gon%C3%A7alves-1683b940a/)
