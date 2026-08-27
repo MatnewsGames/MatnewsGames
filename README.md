@@ -1,4 +1,4 @@
-# Olá, eu sou o Matheus Otávio! 👋
+# Olá, eu sou o Matheus! 👋
 
 🎓 Estudante de **Análise e Desenvolvimento de Sistemas** no IFSP (Campus Cubatão)  
 💼 Em busca de oportunidades de Estágio em Desenvolvimento de Software / TI  
